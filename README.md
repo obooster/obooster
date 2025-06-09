@@ -9,8 +9,8 @@
 ‎ 
 <h2>⚡ Languages</h2>
 <div align = center>
-  <code><img height = 48 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/></code>
-  <code><img height = 48 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg"/></code>
+  <code><img height = 48 src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg"/></code>
+  <code><img height = 48 src="https://github.com/devicons/devicon/blob/v2.16.0/icons/lua/lua-original.svg"/></code>
 <div>
           
           
